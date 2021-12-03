@@ -1,1 +1,1 @@
-# A simple todo list app on blockchain :)
+# A simple todo list Dapp in ReactJS :)
