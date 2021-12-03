@@ -1,1 +1,1 @@
-# A simple todo list app based on blockchain :)
+# A simple todo list app on blockchain :)
